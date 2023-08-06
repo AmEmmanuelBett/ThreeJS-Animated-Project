@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sci-Fi Rocket Model
+* source:	https://sketchfab.com/3d-models/sci-fi-rocket-model-7b030d81119b465c904ac2f006ff8d9c
+* author:	Marco Zakaria (https://sketchfab.com/marcoZakaria)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sci-Fi Rocket Model" (https://sketchfab.com/3d-models/sci-fi-rocket-model-7b030d81119b465c904ac2f006ff8d9c) by Marco Zakaria (https://sketchfab.com/marcoZakaria) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
